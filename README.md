@@ -1,3 +1,2 @@
 # Tesla_gme_soursera
-
-Peer-graded Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard
+ Please note that graph cant be displayed in github , they show if you use the github vscode
